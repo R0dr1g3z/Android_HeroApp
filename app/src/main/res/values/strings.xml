@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hero App</string>
+    <string name="hero1">Speeding Lighter</string>
+    <string name="hero2">Blocker</string>
+    <string name="hero3">Water man</string>
+    <string name="hero4">Galacticus</string>
+    <string name="hero5">Little hamster</string>
+    <string name="hero6">Gunner</string>
+    <string name="description1">He is fast AF</string>
+    <string name="description2">He can block all enemies attack and always protect allies</string>
+    <string name="description3">Controls water</string>
+    <string name="description4">Has a power all galactic universe</string>
+    <string name="description5">Like hamsters</string>
+    <string name="description6">Never misses</string>
+</resources>
